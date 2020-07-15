@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1.Cheese
+  1. _Gouda_
+  2. **Sharp Cheddar**  
+  3. *swiss*
